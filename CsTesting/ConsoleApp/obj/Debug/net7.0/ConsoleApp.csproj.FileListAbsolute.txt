@@ -1,0 +1,15 @@
+C:\Users\Dino\Desktop\CsTesting\ConsoleApp\bin\Debug\net7.0\ConsoleApp.exe
+C:\Users\Dino\Desktop\CsTesting\ConsoleApp\bin\Debug\net7.0\ConsoleApp.deps.json
+C:\Users\Dino\Desktop\CsTesting\ConsoleApp\bin\Debug\net7.0\ConsoleApp.runtimeconfig.json
+C:\Users\Dino\Desktop\CsTesting\ConsoleApp\bin\Debug\net7.0\ConsoleApp.dll
+C:\Users\Dino\Desktop\CsTesting\ConsoleApp\bin\Debug\net7.0\ConsoleApp.pdb
+C:\Users\Dino\Desktop\CsTesting\ConsoleApp\obj\Debug\net7.0\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Dino\Desktop\CsTesting\ConsoleApp\obj\Debug\net7.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dino\Desktop\CsTesting\ConsoleApp\obj\Debug\net7.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Dino\Desktop\CsTesting\ConsoleApp\obj\Debug\net7.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\Dino\Desktop\CsTesting\ConsoleApp\obj\Debug\net7.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Dino\Desktop\CsTesting\ConsoleApp\obj\Debug\net7.0\ConsoleApp.dll
+C:\Users\Dino\Desktop\CsTesting\ConsoleApp\obj\Debug\net7.0\refint\ConsoleApp.dll
+C:\Users\Dino\Desktop\CsTesting\ConsoleApp\obj\Debug\net7.0\ConsoleApp.pdb
+C:\Users\Dino\Desktop\CsTesting\ConsoleApp\obj\Debug\net7.0\ConsoleApp.genruntimeconfig.cache
+C:\Users\Dino\Desktop\CsTesting\ConsoleApp\obj\Debug\net7.0\ref\ConsoleApp.dll

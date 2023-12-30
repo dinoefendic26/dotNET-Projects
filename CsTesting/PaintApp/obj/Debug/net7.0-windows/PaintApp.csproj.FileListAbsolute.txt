@@ -1,0 +1,15 @@
+C:\Users\Dino\Desktop\CsTesting\PaintApp\bin\Debug\net7.0-windows\PaintApp.exe
+C:\Users\Dino\Desktop\CsTesting\PaintApp\bin\Debug\net7.0-windows\PaintApp.deps.json
+C:\Users\Dino\Desktop\CsTesting\PaintApp\bin\Debug\net7.0-windows\PaintApp.runtimeconfig.json
+C:\Users\Dino\Desktop\CsTesting\PaintApp\bin\Debug\net7.0-windows\PaintApp.dll
+C:\Users\Dino\Desktop\CsTesting\PaintApp\bin\Debug\net7.0-windows\PaintApp.pdb
+C:\Users\Dino\Desktop\CsTesting\PaintApp\obj\Debug\net7.0-windows\PaintApp.csproj.AssemblyReference.cache
+C:\Users\Dino\Desktop\CsTesting\PaintApp\obj\Debug\net7.0-windows\PaintApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dino\Desktop\CsTesting\PaintApp\obj\Debug\net7.0-windows\PaintApp.AssemblyInfoInputs.cache
+C:\Users\Dino\Desktop\CsTesting\PaintApp\obj\Debug\net7.0-windows\PaintApp.AssemblyInfo.cs
+C:\Users\Dino\Desktop\CsTesting\PaintApp\obj\Debug\net7.0-windows\PaintApp.csproj.CoreCompileInputs.cache
+C:\Users\Dino\Desktop\CsTesting\PaintApp\obj\Debug\net7.0-windows\PaintApp.dll
+C:\Users\Dino\Desktop\CsTesting\PaintApp\obj\Debug\net7.0-windows\refint\PaintApp.dll
+C:\Users\Dino\Desktop\CsTesting\PaintApp\obj\Debug\net7.0-windows\PaintApp.pdb
+C:\Users\Dino\Desktop\CsTesting\PaintApp\obj\Debug\net7.0-windows\PaintApp.genruntimeconfig.cache
+C:\Users\Dino\Desktop\CsTesting\PaintApp\obj\Debug\net7.0-windows\ref\PaintApp.dll

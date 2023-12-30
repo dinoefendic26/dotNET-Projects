@@ -1,0 +1,15 @@
+C:\Users\Dino\Desktop\CsTesting\TextEditorApp\bin\Debug\net7.0-windows\TextEditorApp.exe
+C:\Users\Dino\Desktop\CsTesting\TextEditorApp\bin\Debug\net7.0-windows\TextEditorApp.deps.json
+C:\Users\Dino\Desktop\CsTesting\TextEditorApp\bin\Debug\net7.0-windows\TextEditorApp.runtimeconfig.json
+C:\Users\Dino\Desktop\CsTesting\TextEditorApp\bin\Debug\net7.0-windows\TextEditorApp.dll
+C:\Users\Dino\Desktop\CsTesting\TextEditorApp\bin\Debug\net7.0-windows\TextEditorApp.pdb
+C:\Users\Dino\Desktop\CsTesting\TextEditorApp\obj\Debug\net7.0-windows\TextEditorApp.csproj.AssemblyReference.cache
+C:\Users\Dino\Desktop\CsTesting\TextEditorApp\obj\Debug\net7.0-windows\TextEditorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dino\Desktop\CsTesting\TextEditorApp\obj\Debug\net7.0-windows\TextEditorApp.AssemblyInfoInputs.cache
+C:\Users\Dino\Desktop\CsTesting\TextEditorApp\obj\Debug\net7.0-windows\TextEditorApp.AssemblyInfo.cs
+C:\Users\Dino\Desktop\CsTesting\TextEditorApp\obj\Debug\net7.0-windows\TextEditorApp.csproj.CoreCompileInputs.cache
+C:\Users\Dino\Desktop\CsTesting\TextEditorApp\obj\Debug\net7.0-windows\TextEditorApp.dll
+C:\Users\Dino\Desktop\CsTesting\TextEditorApp\obj\Debug\net7.0-windows\refint\TextEditorApp.dll
+C:\Users\Dino\Desktop\CsTesting\TextEditorApp\obj\Debug\net7.0-windows\TextEditorApp.pdb
+C:\Users\Dino\Desktop\CsTesting\TextEditorApp\obj\Debug\net7.0-windows\TextEditorApp.genruntimeconfig.cache
+C:\Users\Dino\Desktop\CsTesting\TextEditorApp\obj\Debug\net7.0-windows\ref\TextEditorApp.dll

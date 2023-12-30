@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "jWyki50P4Ped7TAEWhg2vZ/1THliY3SthdyLdFw9olImmGUztj+9zNjPG9CSYAQV+j2wYsC70B3m3YUymfHCfg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dino\\Desktop\\CsTesting\\NewApp\\NewApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dino\\.nuget\\packages\\atksharp\\3.24.24.95\\atksharp.3.24.24.95.nupkg.sha512",
+    "C:\\Users\\Dino\\.nuget\\packages\\cairosharp\\3.24.24.95\\cairosharp.3.24.24.95.nupkg.sha512",
+    "C:\\Users\\Dino\\.nuget\\packages\\gdksharp\\3.24.24.95\\gdksharp.3.24.24.95.nupkg.sha512",
+    "C:\\Users\\Dino\\.nuget\\packages\\giosharp\\3.24.24.95\\giosharp.3.24.24.95.nupkg.sha512",
+    "C:\\Users\\Dino\\.nuget\\packages\\glibsharp\\3.24.24.95\\glibsharp.3.24.24.95.nupkg.sha512",
+    "C:\\Users\\Dino\\.nuget\\packages\\gtksharp\\3.24.24.95\\gtksharp.3.24.24.95.nupkg.sha512",
+    "C:\\Users\\Dino\\.nuget\\packages\\pangosharp\\3.24.24.95\\pangosharp.3.24.24.95.nupkg.sha512"
+  ],
+  "logs": []
+}
